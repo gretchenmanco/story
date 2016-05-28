@@ -1,7 +1,11 @@
 There are 8 planets.
 
 There are many moons.
-
+- Phobos
+- Titan
+- Io
 - Deneb
 - Sol
 - Altair
+
+Stars are bright
