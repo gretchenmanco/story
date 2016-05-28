@@ -1,3 +1,7 @@
 There are 8 planets.
 
 There are many moons.
+
+- Deneb
+- Sol
+- Altair
